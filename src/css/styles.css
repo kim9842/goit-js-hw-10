@@ -1,0 +1,15 @@
+.link-list {
+  list-style: none;
+  font-size: 34px;
+  margin: 0;
+  padding: 20px;
+}
+
+.link-item a {
+  color: black;
+  text-decoration: none;
+}
+
+.link-item a:hover {
+  color: #007bff;
+}
